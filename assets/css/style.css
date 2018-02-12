@@ -1,0 +1,13 @@
+* {
+    text-align: left;
+}
+
+.container-flex {
+    display: flex;
+}
+
+.item{
+    flex: 1;
+    height 100px;
+    padding: 5px;
+}
